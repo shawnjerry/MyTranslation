@@ -24,4 +24,10 @@
 >Done, Date 2017/1/28
 
 * What is a URL
->Ongoing
+>Done, Date 2017/1/29
+
+* Preparations
+>Done，Date 2017/2/5
+
+* Making Requests
+>On Going
